@@ -126,7 +126,10 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 **Application Engineer**
 
-- xxx
+- Develop and maintain [Valhalla Gate](http://official.valhalla-gate.jp/) (mobile social game)
+    - C#/.NET, ASP.NET MVC, AWS, and so on
+- Develop and maintain [Black Night and White Devil](https://kuro-kishi.jp/) (mobile social game)
+    - C#/.NET, gRPC, UniRx, Unity
 
 
 
@@ -156,7 +159,10 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 **Technical Specialist**
 
-- xxx
+- Develop in-house realtime monitoring system
+- Develop in-house accounts receivable management system
+- Develop in-house Google Adwords automatic analysis tool
+- AWS resource management
 
 
 
