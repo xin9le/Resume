@@ -7,8 +7,8 @@
 - Technical Blog : [xin9le.net](https://blog.xin9le.net/)
 - Twitter : [@xin9le](https://twitter.com/xin9le)
 - Facebook : [takaaki.suzuki.56](https://www.facebook.com/takaaki.suzuki.56)
-- GitHub : https://github.com/xin9le
-- SlideShare : https://www.slideshare.net/xin9le
+- GitHub : [@xin9le](https://github.com/xin9le)
+- SlideShare : [@xin9le](https://www.slideshare.net/xin9le)
 
 
 
