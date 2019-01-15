@@ -139,7 +139,8 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 **Software Engineer**
 
-- xxx
+- Develop CTI (= Computer Telephony Integration) system using cutting edge technologies at the time
+    - Asterisk, async/await, Rx.NET, ASP.NET SignalR, ASP.NET Web API, WPF, SQL Server, and so on
 
 
 
