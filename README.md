@@ -1,7 +1,5 @@
 # Personal Info
 
-
-
 **Takaaki Suzuki**
 
 - E-mail : xin9le@live.jp
@@ -73,10 +71,11 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 | Japanese | :star::star::star::star::star: |
 | English | :star::star: |
 
-- Extreamly knowledge of C#/.NET
-- Totally covers (desktop, mobile, web).
-- Good at asynchronus, reactive, didirectional communication programing.
-
+- Over 10 years of C# development experience
+    - Extreamly knowledge of C#/.NET
+- Totally covers (desktop, mobile, web)
+- Evangelism of C#/.NET technology
+- Good at asynchronus, reactive, didirectional communication programing
 
 
 
@@ -89,11 +88,13 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 - xxx
 
 
+
 ## GMG, Inc. (MYNET Group) | Apr 2018 - Jun 2018
 
 **Application Engineer**
 
 - xxx
+
 
 
 ## Grani, Inc. | Sep 2015 - Mar 2018
@@ -103,6 +104,7 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 - xxx
 
 
+
 ## ALL CONNECT Co.,Ltd | Mar 2014 - Sep 2015
 
 **Technical Specialist**
@@ -110,11 +112,13 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 - xxx
 
 
+
 ## Fukui Computer Holdings, Inc. (Fukui Computer Group) | Sep 2012 - Mar 2014
 
 **Software Engineer**
 
 - xxx
+
 
 
 ## Fukui Computer, Inc. (Fuku Computer Group) | Apr 2007 - Aug 2012
