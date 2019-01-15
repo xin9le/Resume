@@ -30,42 +30,42 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 # Career
 
-## A certain startup company
+## A certain startup company | Jul 2018 - Jan 2019
 
 **Lead Engineer / Solution Architect**
 
 - xxx
 
 
-## GMG, Inc. (MYNET Group)
+## GMG, Inc. (MYNET Group) | Apr 2018 - Jun 2018
 
 **Application Engineer**
 
 - xxx
 
 
-## Grani, Inc.
+## Grani, Inc. | Sep 2015 - Mar 2018
 
 **Application Engineer / XR Engineer**
 
 - xxx
 
 
-## ALL CONNECT Co.,Ltd
+## ALL CONNECT Co.,Ltd | Mar 2014 - Sep 2015
 
 **Technical Specialist**
 
 - xxx
 
 
-## Fukui Computer Holdings, Inc. (Fukui Computer Group)
+## Fukui Computer Holdings, Inc. (Fukui Computer Group) | Sep 2012 - Mar 2014
 
 **Software Engineer**
 
 - xxx
 
 
-## Fukui Computer, Inc. (Fuku Computer Group)
+## Fukui Computer, Inc. (Fuku Computer Group) | Apr 2007 - Aug 2012
 
 **Software Engineer**
 
