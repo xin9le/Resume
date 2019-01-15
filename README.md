@@ -21,6 +21,13 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 # Skill Set
 
+- Over 10 years of C# development experience
+    - Extreamly knowledge of C#/.NET
+- Totally covers (desktop, mobile, web)
+- Evangelism of C#/.NET technology
+- Good at asynchronus, reactive, didirectional communication, XR programming
+
+
 | Programming Language | Knowledge Level |
 |---|---|
 | C# | :star::star::star::star::star: |
@@ -81,6 +88,12 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 | MySQL | :star::star::star::star: |
 
 
+| Infrastructure | Knowledge Level |
+|---|---|
+| Docker | :star::star::star: |
+| Circle CI | :star::star::star::star: |
+
+
 | Version Control | Knowledge Level |
 |---|---|
 | Git | :star::star::star::star::star: |
@@ -92,12 +105,6 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 | Japanese | :star::star::star::star::star: |
 | English | :star::star: |
 
-
-- Over 10 years of C# development experience
-    - Extreamly knowledge of C#/.NET
-- Totally covers (desktop, mobile, web)
-- Evangelism of C#/.NET technology
-- Good at asynchronus, reactive, didirectional communication, XR programming
 
 
 
@@ -139,7 +146,7 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 **Software Engineer**
 
-- Develop CTI (= Computer Telephony Integration) system using cutting edge technologies at the time
+- Develop in-house CTI (= Computer Telephony Integration) system using cutting edge technologies at the time
     - Asterisk, async/await, Rx.NET, ASP.NET SignalR, ASP.NET Web API, WPF, SQL Server, and so on
 
 
@@ -148,11 +155,11 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 **Software Engineer**
 
-- Develop construction CAD and survey CAD using C++/C#
-- 3D programming using DirectX / OpenGL
-- Desktop application installer
-- Microsoft Excel Add-in using VSTO
-- Build batch
+- Develop [EX-TREND 武蔵 Series](https://const.fukuicompu.co.jp/products/extrendmusashi/index.html) (Construction CAD) and [BLUETREND Series](https://const.fukuicompu.co.jp/products/trendone/index.html) (Survey CAD) using C++/C#
+    - 3D programming using DirectX / OpenGL
+    - Desktop application installer
+    - Microsoft Excel Add-in using VSTO
+    - Build batch
 
 
 
