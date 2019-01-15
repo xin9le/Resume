@@ -21,7 +21,7 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 # Skill Set
 
-| Programing Language | Knowledge Level |
+| Programming Language | Knowledge Level |
 |---|---|
 | C# | :star::star::star::star::star: |
 | C++ | :star::star::star::star: |
@@ -31,13 +31,16 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 | CSS (Less) | :star::star::star: |
 | Visual Basic | :star::star:
 | Swift | :star: |
-| Install Script | :star::star::star::star: |
+| Install Script | :star::star::star::star::star: |
+
 
 | IDE | Knowledge Level |
 |---|---|
 | Visual Studio | :star::star::star::star::star: |
 | Xcode | :star::star: |
 | Unity | :star::star::star: |
+| InstallSheild | :star::star::star::star::star: |
+
 
 | Framework | Knowledge Level |
 |---|---|
@@ -48,6 +51,11 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 | WPF | :star::star::star::star: |
 | UWP | :star::star: |
 | Xamarin | :star::star: |
+| Visual Studio Tools for Office | :star::star::star::star: |
+| DirectX | :star::star::star: |
+| OpenGL | :star::star: |
+| Asterisk | :star::star::star::star: |
+
 
 | Cloud Platform | Knowledge Level |
 |---|---|
@@ -55,27 +63,41 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 | AWS | :star::star::star: |
 | GCP | :star: |
 
+
+| XR Platform | Knowledge Level |
+|---|---|
+| Microsoft HoloLens | :star::star::star::star::star: |
+| HTC Vive | :star::star::star::star::star: |
+| Oculus Rift | :star::star::star: |
+| Google Daydream | :star: |
+| ARKit | :star::star::star: |
+| Kudan | :star: |
+
+
 | RDBMS | Knowledge Level |
 |---|---|
 | SQL Server | :star::star::star::star: |
 | Oracle | :star::star::star: |
 | MySQL | :star::star::star::star: |
 
+
 | Version Control | Knowledge Level |
 |---|---|
 | Git | :star::star::star::star::star: |
 | Subversion | :star::star: |
+
 
 | Language | Knowledge Level |
 |---|---|
 | Japanese | :star::star::star::star::star: |
 | English | :star::star: |
 
+
 - Over 10 years of C# development experience
     - Extreamly knowledge of C#/.NET
 - Totally covers (desktop, mobile, web)
 - Evangelism of C#/.NET technology
-- Good at asynchronus, reactive, didirectional communication programing
+- Good at asynchronus, reactive, didirectional communication, XR programming
 
 
 
@@ -125,7 +147,11 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 **Software Engineer**
 
-- xxx
+- Develop construction CAD and survey CAD using C++/C#
+- 3D programming using DirectX / OpenGL
+- Desktop application installer
+- Microsoft Excel Add-in using VSTO
+- Build batch
 
 
 
