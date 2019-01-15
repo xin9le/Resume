@@ -8,6 +8,7 @@
 - Twitter : [@xin9le](https://twitter.com/xin9le)
 - Facebook : [takaaki.suzuki.56](https://www.facebook.com/takaaki.suzuki.56)
 - GitHub : https://github.com/xin9le
+- SlideShare : https://www.slideshare.net/xin9le
 
 
 
