@@ -4,6 +4,7 @@
 
 **Takaaki Suzuki**
 
+- E-mail : xin9le@live.jp
 - Web Site : [xin9le.net](https://xin9le.net/)
 - Blog : [xin9le.net](https://blog.xin9le.net/)
 - Twitter : [@xin9le](https://twitter.com/xin9le)
@@ -12,18 +13,69 @@
 
 
 
-# Experience
-
-- xxx
-
-
-
-
 # Award
 
 [![MVP Logo](https://xin9le.net/Images/mvp-logo.png)](https://xin9le.net/Images/mvp-logo.png)
 
 Microsoft MVP for Developer Technologies (July 2012 - June 2019)
+
+
+
+# Skill Set
+
+| Programing Language | Knowledge Level |
+|---|---|
+| C# | :star::star::star::star::star: |
+| C++ | :star::star::star::star: |
+| TypeScript | :star::star::star::star: |
+| JavaScript | :star::star::star: |
+| HTML | :star::star::star::star::star: |
+| CSS (Less) | :star::star::star: |
+| Visual Basic | :star::star:
+| Swift | :star: |
+| Install Script | :star::star::star::star: |
+
+| IDE | Knowledge Level |
+|---|---|
+| Visual Studio | :star::star::star::star::star: |
+| Xcode | :star::star: |
+| Unity | :star::star::star: |
+
+| Framework | Knowledge Level |
+|---|---|
+| .NET Core / .NET Framework | :star::star::star::star::star: |
+| ASP.NET Core MVC | :star::star::star::star::star: |
+| ASP.NET MVC | :star::star::star::star::star: |
+| Windows Forms | :star::star::star::star::star: |
+| WPF | :star::star::star::star: |
+| UWP | :star::star: |
+| Xamarin | :star: |
+
+| Cloud Platform | Knowledge Level |
+|---|---|
+| Azure | :star::star::star::star: |
+| AWS | :star::star::star: |
+| GCP | :star: |
+
+| RDBMS | Knowledge Level |
+|---|---|
+| SQL Server | :star::star::star::star: |
+| Oracle | :star::star::star: |
+| MySQL | :star::star::star::star: |
+
+| Version Control | Knowledge Level |
+|---|---|
+| Git | :star::star::star::star::star: |
+| Subversion | :star::star: |
+
+| Language | Knowledge Level |
+|---|---|
+| Japanese | :star::star::star::star::star: |
+| English | :star::star: |
+
+- Extreamly knowledge of C#/.NET
+- Totally covers (desktop, mobile, web).
+- Good at asynchronus, reactive, didirectional communication programing.
 
 
 
