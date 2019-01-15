@@ -118,7 +118,9 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 **Lead Engineer / Solution Architect**
 
-- xxx
+- A service to change the food industry
+    - C#, ASP.NET Core MVC, Azure, Docker, Xamarin, TypeScript
+    - Works on Docker/Linux on Azure Web Apps
 
 
 
@@ -127,7 +129,7 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 **Application Engineer**
 
 - Develop and maintain [Valhalla Gate](http://official.valhalla-gate.jp/) (mobile social game)
-    - C#/.NET, ASP.NET MVC, AWS, and so on
+    - C#/.NET, ASP.NET MVC, TypeScript, LESS, AWS, and so on
 - Develop and maintain [Black Night and White Devil](https://kuro-kishi.jp/) (mobile social game)
     - C#/.NET, gRPC, UniRx, Unity
 
@@ -138,7 +140,7 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 **Application Engineer / XR Engineer**
 
 - Develop and maintain [Valhalla Gate](http://official.valhalla-gate.jp/) (mobile social game)
-    - C#/.NET, ASP.NET MVC, AWS, and so on
+    - C#/.NET, ASP.NET MVC, TypeScript, LESS, AWS, and so on
 - Develop and maintain [Black Night and White Devil](https://kuro-kishi.jp/) (mobile social game)
     - C#/.NET, gRPC, UniRx, Unity
 - Develop [Grani VR Office Tour](http://grani.jp/product/vrofficetour/en/)
