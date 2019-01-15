@@ -25,7 +25,7 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
     - Extreamly knowledge of C#/.NET
 - Totally covers (desktop, mobile, web)
 - Evangelism of C#/.NET technology
-- Good at asynchronus, reactive, didirectional communication, XR programming
+- Good at asynchronus, reactive, bidirectional communication, XR programming
 
 
 | Programming Language | Knowledge Level |
@@ -54,6 +54,8 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 | .NET Core / .NET Framework | :star::star::star::star::star: |
 | ASP.NET Core MVC | :star::star::star::star::star: |
 | ASP.NET MVC | :star::star::star::star::star: |
+| ASP.NET Web API | :star::star::star::star::star: |
+| ASP.NET SignalR | :star::star::star::star::star: |
 | Windows Forms | :star::star::star::star::star: |
 | WPF | :star::star::star::star: |
 | UWP | :star::star: |
@@ -61,6 +63,8 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 | Visual Studio Tools for Office | :star::star::star::star: |
 | DirectX | :star::star::star: |
 | OpenGL | :star::star: |
+| gRPC | :star::star::star::star: |
+| UniRx | :star::star::star::star: |
 | Asterisk | :star::star::star::star: |
 
 
@@ -130,7 +134,21 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 **Application Engineer / XR Engineer**
 
-- xxx
+- Develop and maintain [Valhalla Gate](http://official.valhalla-gate.jp/) (mobile social game)
+    - C#/.NET, ASP.NET MVC, AWS, and so on
+- Develop and maintain [Black Night and White Devil](https://kuro-kishi.jp/) (mobile social game)
+    - C#/.NET, gRPC, UniRx, Unity
+- Develop [Grani VR Office Tour](http://grani.jp/product/vrofficetour/en/)
+    - Only 2 developers, only 2 months
+    - Exhibited in [Japan VR Summit 2](http://jvrs.org/02/ja/)
+    - Picked this up on [あさチャン!](http://www.tbs.co.jp/asachan/)
+    - Supports HTC Vive
+- Develop [Project Sonata](http://connect.sonata.world/) as lead engineer
+    - Real-time bidirectional AR translation
+    - Only 3 developers, only 1 month
+    - Exhibited in [SxSW 2017](https://www.sxsw.com/)
+    - Supports Microsoft HoloLens, HTC Vive
+    - [Alex Kipman and Palmer Luckey :heart: this product](https://twitter.com/akipman/status/842090464656293889)
 
 
 
