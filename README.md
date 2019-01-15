@@ -63,7 +63,7 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 | Visual Studio Tools for Office | :star::star::star::star: |
 | DirectX | :star::star::star: |
 | OpenGL | :star::star: |
-| gRPC | :star::star::star::star: |
+| gRPC / MagicOnion | :star::star::star::star::star: |
 | UniRx | :star::star::star::star: |
 | Asterisk | :star::star::star::star: |
 
