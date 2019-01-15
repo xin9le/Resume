@@ -66,6 +66,8 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 | gRPC / MagicOnion | :star::star::star::star::star: |
 | UniRx | :star::star::star::star: |
 | Asterisk | :star::star::star::star: |
+| KnockoutJS | :star::star::star::star: |
+| Vue.js | :star::star::star: |
 
 
 | Cloud Platform | Knowledge Level |
