@@ -47,7 +47,7 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 | Windows Forms | :star::star::star::star::star: |
 | WPF | :star::star::star::star: |
 | UWP | :star::star: |
-| Xamarin | :star: |
+| Xamarin | :star::star: |
 
 | Cloud Platform | Knowledge Level |
 |---|---|
