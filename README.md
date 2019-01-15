@@ -144,7 +144,7 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 
 
-## Fukui Computer, Inc. (Fuku Computer Group) | Apr 2007 - Aug 2012
+## Fukui Computer, Inc. (Fukui Computer Group) | Apr 2007 - Aug 2012
 
 **Software Engineer**
 
