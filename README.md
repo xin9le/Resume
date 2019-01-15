@@ -74,7 +74,7 @@
 
 | Cloud Platform | Knowledge Level |
 |---|---|
-| Azure | :star::star::star::star: |
+| Azure | :star::star::star: |
 | AWS | :star::star::star: |
 | GCP | :star: |
 
