@@ -16,8 +16,9 @@
 
 [![MVP Logo](https://xin9le.net/Images/mvp-logo.png)](https://xin9le.net/Images/mvp-logo.png)
 
-Microsoft MVP for Developer Technologies (July 2012 - June 2019)
-
+- Microsoft MVP for Developer Technologies (July 2012 - June 2019)
+- [Musician's Hackathon 2015, Grand Prize](https://ma2017.we-are-ma.jp/2015/09/ma11-musicians-hackathon-2015-by-mashup-awards/) - SHAKIN'
+- [SPAJAM 2016 Tokyo C, Grand Prize](https://www.4gamer.net/games/999/G999904/20160516067/) - Ohgirix!
 
 
 # Skill Set
@@ -90,9 +91,9 @@ Microsoft MVP for Developer Technologies (July 2012 - June 2019)
 
 | RDBMS | Knowledge Level |
 |---|---|
-| SQL Server | :star::star::star::star: |
-| Oracle | :star::star::star: |
-| MySQL | :star::star::star::star: |
+| SQL Server | :star::star::star: |
+| Oracle | :star::star: |
+| MySQL | :star::star::star: |
 
 
 | Infrastructure | Knowledge Level |
