@@ -4,7 +4,7 @@
 
 - E-mail : xin9le@live.jp
 - Web Site : [xin9le.net](https://xin9le.net/)
-- Blog : [xin9le.net](https://blog.xin9le.net/)
+- Technical Blog : [xin9le.net](https://blog.xin9le.net/)
 - Twitter : [@xin9le](https://twitter.com/xin9le)
 - Facebook : [takaaki.suzuki.56](https://www.facebook.com/takaaki.suzuki.56)
 - GitHub : https://github.com/xin9le
