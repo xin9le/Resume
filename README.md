@@ -40,6 +40,7 @@
 | CSS (Less) | :star::star::star: |
 | Visual Basic | :star::star:
 | Swift | :star: |
+| PHP | :star: |
 | Install Script | :star::star::star::star::star: |
 
 
@@ -124,7 +125,7 @@
 
 - A service to change the food industry
     - C#, ASP.NET Core MVC, Azure, Docker, Xamarin, TypeScript
-    - Works on Docker/Linux on Azure Web Apps
+    - Runs on Docker/Linux on Azure Web Apps
 
 
 
