@@ -67,7 +67,6 @@
 | OpenGL | :star::star: |
 | gRPC / MagicOnion | :star::star::star::star::star: |
 | UniRx | :star::star::star::star: |
-| Asterisk (IP PBX) | :star::star::star::star: |
 | KnockoutJS | :star::star::star::star: |
 | Vue.js | :star::star::star: |
 
@@ -100,6 +99,7 @@
 |---|---|
 | Docker | :star::star::star: |
 | Circle CI | :star::star::star::star: |
+| Asterisk (IP PBX) | :star::star::star::star: |
 
 
 | Version Control | Knowledge Level |
