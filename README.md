@@ -2,7 +2,6 @@
 
 **Takaaki Suzuki**
 
-- E-mail : xin9le@live.jp
 - Web Site : [xin9le.net](https://xin9le.net/)
 - Technical Blog : [xin9le.net](https://blog.xin9le.net/)
 - Twitter : [@xin9le](https://twitter.com/xin9le)
