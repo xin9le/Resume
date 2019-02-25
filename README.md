@@ -118,6 +118,15 @@
 
 # Career
 
+## Sigma Consulting Co., Ltd. | Feb 2019 - Now
+
+**CRO / Lead Engineer**
+
+- Work as a developer and consultant about EC services
+- Remote work in Fukui (company located at Ningyo-cho, Tokyo)
+
+
+
 ## A certain startup company | Jul 2018 - Jan 2019
 
 **Lead Engineer / Solution Architect**
