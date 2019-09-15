@@ -15,7 +15,7 @@
 
 [![MVP Logo](https://xin9le.net/Images/mvp-logo.png)](https://xin9le.net/Images/mvp-logo.png)
 
-- Microsoft MVP for Developer Technologies (July 2012 - June 2019)
+- Microsoft MVP for Developer Technologies (July 2012 - June 2020)
 - [Musician's Hackathon 2015, Grand Prize](https://ma2017.we-are-ma.jp/2015/09/ma11-musicians-hackathon-2015-by-mashup-awards/) - SHAKIN'
 - [SPAJAM 2016 Tokyo C, Grand Prize](https://www.4gamer.net/games/999/G999904/20160516067/) - Ohgirix!
 
@@ -32,10 +32,10 @@
 | Programming Language | Knowledge Level |
 |---|---|
 | C# | :star::star::star::star::star: |
-| C++ | :star::star::star::star: |
-| TypeScript | :star::star::star::star: |
+| C++ | :star::star::star: |
+| TypeScript | :star::star::star: |
 | JavaScript | :star::star::star: |
-| HTML | :star::star::star::star::star: |
+| HTML | :star::star::star::star: |
 | CSS (Less) | :star::star::star: |
 | Visual Basic | :star::star:
 | Swift | :star: |
@@ -46,7 +46,7 @@
 | IDE | Knowledge Level |
 |---|---|
 | Visual Studio | :star::star::star::star::star: |
-| Xcode | :star::star: |
+| Xcode | :star: |
 | Unity | :star::star::star: |
 | InstallSheild | :star::star::star::star::star: |
 
@@ -63,12 +63,12 @@
 | UWP | :star::star: |
 | Xamarin | :star::star: |
 | Visual Studio Tools for Office | :star::star::star::star: |
-| DirectX | :star::star::star: |
-| OpenGL | :star::star: |
+| DirectX | :star::star: |
+| OpenGL | :star: |
 | gRPC / MagicOnion | :star::star::star::star::star: |
 | UniRx | :star::star::star::star: |
 | KnockoutJS | :star::star::star::star: |
-| Vue.js | :star::star::star: |
+| Vue.js | :star::star: |
 
 
 | Cloud Platform | Knowledge Level |
@@ -80,8 +80,8 @@
 
 | XR Platform | Knowledge Level |
 |---|---|
-| Microsoft HoloLens | :star::star::star::star::star: |
-| HTC Vive | :star::star::star::star::star: |
+| Microsoft HoloLens | :star::star::star::star: |
+| HTC Vive | :star::star::star::star: |
 | Oculus Rift | :star::star::star: |
 | Google Daydream | :star: |
 | ARKit | :star::star::star: |
@@ -105,7 +105,7 @@
 | Version Control | Knowledge Level |
 |---|---|
 | Git | :star::star::star::star::star: |
-| Subversion | :star::star: |
+| Subversion | :star: |
 
 
 | Language | Knowledge Level |
