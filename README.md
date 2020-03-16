@@ -122,8 +122,12 @@
 
 **CRO / Lead Engineer**
 
-- Work as a developer and consultant about EC services
 - Remote work in Fukui (company located at Ningyo-cho, Tokyo)
+- Work as a developer and consultant (mainly EC services)
+    - [Gatebox Developer Platform](https://updated.sigmact.com/interview/gatebox/interview-gatebox/)
+    - SABON Japan
+    - Dainese Japan
+    - etc.
 
 
 
