@@ -22,7 +22,7 @@
 
 # Skill Set
 
-- Over 10 years of C# development experience
+- Over 12 years of C# development experience
     - Extreamly knowledge of C#/.NET
 - Totally covers (desktop, mobile, web)
 - Evangelism of C#/.NET technology
@@ -37,7 +37,7 @@
 | JavaScript | :star::star::star: |
 | HTML | :star::star::star::star: |
 | CSS (Less) | :star::star::star: |
-| Visual Basic | :star::star:
+| Visual Basic | :star::star: |
 | Swift | :star: |
 | PHP | :star: |
 | Install Script | :star::star::star::star::star: |
@@ -112,7 +112,6 @@
 |---|---|
 | Japanese | :star::star::star::star::star: |
 | English | :star::star: |
-
 
 
 
