@@ -7,6 +7,7 @@
 - Twitter : [@xin9le](https://twitter.com/xin9le)
 - Facebook : [takaaki.suzuki.56](https://www.facebook.com/takaaki.suzuki.56)
 - GitHub : [@xin9le](https://github.com/xin9le)
+- LinkedIn : [@xin9le](https://www.linkedin.com/in/xin9le/)
 - SlideShare : [@xin9le](https://www.slideshare.net/xin9le)
 
 
@@ -37,7 +38,7 @@
 | JavaScript | :star::star::star: |
 | HTML | :star::star::star::star: |
 | CSS (Less) | :star::star::star: |
-| Visual Basic | :star::star: |
+| Visual Basic | :star: |
 | Swift | :star: |
 | PHP | :star: |
 | Install Script | :star::star::star::star::star: |
@@ -68,13 +69,13 @@
 | gRPC / MagicOnion | :star::star::star::star::star: |
 | UniRx | :star::star::star::star: |
 | KnockoutJS | :star::star::star::star: |
-| Vue.js | :star::star: |
+| Vue.js | :star::star::star: |
 
 
 | Cloud Platform | Knowledge Level |
 |---|---|
 | Azure | :star::star::star: |
-| AWS | :star::star::star: |
+| AWS | :star::star: |
 | GCP | :star: |
 
 
@@ -116,6 +117,15 @@
 
 
 # Career
+
+## fingger, Inc. | Nov 2021 - Now
+
+**Technical Advisor / Application Engineer**
+
+- As a freelance developer
+- Remote work in Fukui (company located at Gotanda, Tokyo)
+- Work as a technical advisor for [fingger](https://fingger.com/)
+
 
 ## Sigma Consulting Co., Ltd. | Feb 2019 - Now
 
