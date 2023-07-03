@@ -11,7 +11,6 @@
 - SlideShare : [@xin9le](https://www.slideshare.net/xin9le)
 
 
-
 # Award
 
 [![MVP Logo](https://xin9le.net/Images/mvp-logo.png)](https://mvp.microsoft.com/en-us/PublicProfile/4039817)
@@ -23,7 +22,7 @@
 
 # Skill Set
 
-- Over 14 years of C# development experience
+- Over 15 years of C# development experience
     - Extreamly knowledge of C#/.NET
 - Totally covers (desktop, mobile, web)
 - Evangelism of C#/.NET technology
@@ -34,10 +33,10 @@
 |---|---|
 | C# | :star::star::star::star::star: |
 | C++ | :star::star::star: |
-| TypeScript | :star::star::star: |
+| TypeScript | :star::star: |
 | JavaScript | :star::star::star: |
-| HTML | :star::star::star::star: |
-| CSS (Less) | :star::star::star: |
+| HTML | :star::star::star: |
+| CSS (Less) | :star::star: |
 | Visual Basic | :star: |
 | Swift | :star: |
 | PHP | :star: |
@@ -47,9 +46,10 @@
 | IDE | Knowledge Level |
 |---|---|
 | Visual Studio | :star::star::star::star::star: |
+| Visual Studio Code | :star::star: |
 | Xcode | :star: |
-| Unity | :star::star::star: |
-| InstallSheild | :star::star::star::star::star: |
+| Unity | :star::star: |
+| InstallSheild | :star::star::star::star: |
 
 
 | Framework | Knowledge Level |
@@ -61,8 +61,8 @@
 | ASP.NET SignalR | :star::star::star::star::star: |
 | Windows Forms | :star::star::star::star::star: |
 | WPF | :star::star::star::star: |
-| UWP | :star::star: |
-| Xamarin | :star::star: |
+| UWP | :star: |
+| Xamarin | :star: |
 | Visual Studio Tools for Office | :star::star::star::star: |
 | DirectX | :star::star: |
 | OpenGL | :star: |
@@ -74,7 +74,7 @@
 
 | Cloud Platform | Knowledge Level |
 |---|---|
-| Azure | :star::star::star: |
+| Azure | :star::star::star::star: |
 | AWS | :star::star: |
 | GCP | :star: |
 
@@ -98,14 +98,13 @@
 
 | Infrastructure | Knowledge Level |
 |---|---|
-| Docker | :star::star::star: |
-| Circle CI | :star::star::star::star: |
+| Docker | :star::star: |
 | Asterisk (IP PBX) | :star::star::star::star: |
 
 
 | Version Control | Knowledge Level |
 |---|---|
-| Git | :star::star::star::star::star: |
+| Git | :star::star::star::star: |
 | Subversion | :star: |
 
 
@@ -118,7 +117,7 @@
 
 # Career
 
-## fingger, Inc. | Nov 2021 - Now
+## fingger, Inc. | Nov 2021 - Jul 2023
 
 **Technical Advisor / Application Engineer**
 
