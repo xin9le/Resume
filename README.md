@@ -15,7 +15,7 @@
 
 [![MVP Logo](https://xin9le.net/Images/mvp-logo.png)](https://mvp.microsoft.com/en-us/PublicProfile/4039817)
 
-- [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/4039817) (July 2012 - June 2023)
+- [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/4039817) (July 2012 - June 2024)
 - [Musician's Hackathon 2015, Grand Prize](https://ma2017.we-are-ma.jp/2015/09/ma11-musicians-hackathon-2015-by-mashup-awards/) - SHAKIN'
 - [SPAJAM 2016 Tokyo C, Grand Prize](https://www.4gamer.net/games/999/G999904/20160516067/) - Ohgirix!
 
