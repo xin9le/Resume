@@ -1,3 +1,7 @@
+> [!Warning]
+> This project is currently not being maintained. Check out [Resume.md](https://github.com/xin9le/xin9le/blob/main/Resume.md) for the latest information.
+
+
 # Personal Info
 
 **Takaaki Suzuki**
